@@ -30,7 +30,7 @@ exports.addUser = async (req, res) => {
       secure: false, // true for 465, false for other ports
       auth: {
         user: "roberto_o7@outlook.com",
-        pass: "popoto100200300",
+        pass: "coloca sua senha aqui",
       },
     });
 
