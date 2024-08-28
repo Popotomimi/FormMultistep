@@ -81,3 +81,17 @@ textarea {
 .actions button:hover {
   background-color: #cfcfcf;
 }
+
+.message {
+  max-width: 450px;
+  margin: 50px auto 50px;
+  padding: 15px;
+  background-color: #90ee90;
+  border: solid 1px #006400;
+  border-radius: 5px;
+}
+
+.message p {
+  color: #000;
+  font-weight: bold;
+}
